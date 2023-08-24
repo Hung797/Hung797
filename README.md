@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Hung797
-- 👀 I’m interested in Playing video games
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Playing video games.
+- 🌱 I’m currently learning language and progaming languages.
+- 💞️ I’m handsome/
+- 📫 Suyyy
 
 <!---
 Hung797/Hung797 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
